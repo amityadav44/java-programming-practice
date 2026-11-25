@@ -1,0 +1,6 @@
+package Challange80;
+
+public class Book extends LibraryItem{
+    private String iSBN;
+
+}
